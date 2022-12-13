@@ -41,7 +41,7 @@ We would like to thank these people for their contribution to the survey.
 2. set up [backend]( https://github.com/AGJ-Freiburg/megapart_evaluation)
 3. ```npm install```
 4. ```npm run build```
-5. use dist folder to server website
+5. use dist folder to serve website
 
 
 
