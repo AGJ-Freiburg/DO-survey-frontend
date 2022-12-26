@@ -11,13 +11,18 @@ Germany-wide survey designed to understand the digital needs of homeless people.
 # Contributors
 | TASK                  | PERSONS                                                          | 
 | -------------         |-------------:                                                    | 
-| Project lead          | Moritz Bross, Robin Haensse                                      |
-| Design lead           | Moritz Bross                                                     |
-| Programming lead      | Robin Haensse                                                    | 
-| Programming           | Moritz Bross, Robin Haensse, Bernhard Ruchti                     | 
-| Multi Language        |  Bernhard Ruchti                                                 | 
-| Survey structure      | Moritz Bross, Bernhard Ruchti, Ilaria Mastrelli, Robin Haensse   | 
-| Evaluation            | Robin Haensse                                                    | 
+| Project lead          | [Moritz Bross](https://github.com/MoritzBross), 
+[Robin Haensse](https://github.com/StandardWobin)                                      |
+| Design lead           | [Moritz Bross](https://github.com/MoritzBross)                                                     |
+| Programming lead      | 
+[Robin Haensse](https://github.com/StandardWobin)                                                    | 
+| Programming           | [Moritz Bross](https://github.com/MoritzBross), 
+[Robin Haensse](https://github.com/StandardWobin), [Bernhard Ruchti](https://github.com/bernhardlruchti)                    | 
+| Multi Language        |  [Bernhard Ruchti](https://github.com/bernhardlruchti)                                                 | 
+| Survey structure      | [Moritz Bross](https://github.com/MoritzBross), [Bernhard Ruchti](https://github.com/bernhardlruchti), Ilaria Mastrelli, 
+[Robin Haensse](https://github.com/StandardWobin)   | 
+| Evaluation            | 
+[Robin Haensse](https://github.com/StandardWobin)                                                    | 
 
 # Acknowledgments
 We would like to thank these people for their contribution to the survey. 
@@ -32,8 +37,7 @@ We would like to thank these people for their contribution to the survey.
 
 
 ## Contact
-1. [AGJ-Freiburg](https://agj-freiburg.de/kontaktformular)
-2. the developers using "Issues"
+wohnungslosenhilfe@agj-freiburg.de
 
 
 ## How to use
