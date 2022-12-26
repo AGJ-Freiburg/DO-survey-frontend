@@ -11,18 +11,13 @@ Germany-wide survey designed to understand the digital needs of homeless people.
 # Contributors
 | TASK                  | PERSONS                                                          | 
 | -------------         |-------------:                                                    | 
-| Project lead          | [Moritz Bross](https://github.com/MoritzBross), 
-[Robin Haensse](https://github.com/StandardWobin)                                      |
+| Project lead          | [Moritz Bross](https://github.com/MoritzBross), [Robin Haensse](https://github.com/StandardWobin)      |
 | Design lead           | [Moritz Bross](https://github.com/MoritzBross)                                                     |
-| Programming lead      | 
-[Robin Haensse](https://github.com/StandardWobin)                                                    | 
-| Programming           | [Moritz Bross](https://github.com/MoritzBross), 
-[Robin Haensse](https://github.com/StandardWobin), [Bernhard Ruchti](https://github.com/bernhardlruchti)                    | 
+| Programming lead      | [Robin Haensse](https://github.com/StandardWobin)                                                    | 
+| Programming           | [Moritz Bross](https://github.com/MoritzBross), [Robin Haensse](https://github.com/StandardWobin), [Bernhard Ruchti](https://github.com/bernhardlruchti)                    | 
 | Multi Language        |  [Bernhard Ruchti](https://github.com/bernhardlruchti)                                                 | 
-| Survey structure      | [Moritz Bross](https://github.com/MoritzBross), [Bernhard Ruchti](https://github.com/bernhardlruchti), Ilaria Mastrelli, 
-[Robin Haensse](https://github.com/StandardWobin)   | 
-| Evaluation            | 
-[Robin Haensse](https://github.com/StandardWobin)                                                    | 
+| Survey structure      | [Moritz Bross](https://github.com/MoritzBross), [Bernhard Ruchti](https://github.com/bernhardlruchti), Ilaria Mastrelli, [Robin Haensse](https://github.com/StandardWobin)   | 
+| Evaluation            | [Robin Haensse](https://github.com/StandardWobin)                                                    | 
 
 # Acknowledgments
 We would like to thank these people for their contribution to the survey. 
