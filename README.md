@@ -1,7 +1,7 @@
 <p align="center"><a target="_blank" rel="noopener noreferrer"><img width="200" src="docs/logo.png" alt="Vue logo"></a></p>
 
 # MEGAPART - FRONTEND
-Germany-wide survey designed to understand the digital needs of homeless people. The survey was accessible at www.umfrage.daten-oase.org. The evaluation can be found at: [evaluation]( https://github.com/AGJ-Freiburg/megapart_evaluation). This repository contains the frontend code of the survey. This survey was developed within the context of the EU project *"Cloud for homeless people"* of the [AGJ-Fachverband Freiburg](https://agj-freiburg.de). To guarantee it's usefulness, the survey was designed directly by AGJ-FREIBURG in collaboration with homeless people and social workers.
+MEGAPART is a country-wide survey in Germany, designed to understand the digital needs of homeless people. The survey was accessible at www.umfrage.daten-oase.org. The evaluation can be found at: [evaluation]( https://github.com/AGJ-Freiburg/megapart_evaluation). This repository contains the frontend code of the survey. This survey was developed within the context of the EU project *"Cloud for homeless people"* of the [AGJ-Fachverband Freiburg](https://agj-freiburg.de). To guarantee it's usefulness, the survey was designed directly by AGJ-FREIBURG in collaboration with homeless people and social workers.
 
 ## References
 1. [Daten Oase Survey Backend](https://github.com/AGJ-Freiburg/DO-survey-backend)
